@@ -13,4 +13,5 @@ public class EmailApp {
     private String domainName;
     private List<String> title;
     private boolean isLogIn =false;
+    private String userId;
 }
